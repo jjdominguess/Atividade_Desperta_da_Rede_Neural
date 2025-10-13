@@ -33,7 +33,7 @@ João José Domingues Siva, William Xavier, Murílo Santana, William Ferreira
 
 ## 📜 Descrição
   - Esta projeto tem como intensão mostrar o treinamento de um algoritmo visando identificar por meio de uma base de imagem de 32 fotos mais 4 fotos de validação e 4 fotos de teste, tendo dois grupos diferentes, um barco e outro um animal. Ambos nas mesmas proporções.
-   
+   - [Drive](https://drive.google.com/drive/folders/1vhr3W9ZUDsXY8vWKU0pXzZJ1k-Ma5Iar?usp=drive_link).
 
 ## 📊 Resultados
  - No grupo de identificação do animal, o teste com as epochs em 40 no conjunto das 4 imagens de teste, somente esta <a href="Assets/img-exp9-identificado-37%25.jpeg">imagem </a>foi identificada. Já com as epochs mais elevadas, em 60, 3 das 4 imagens foram identificadas, <a href="Assets/img-exp11-identificada-43%25.jpeg"> primeira </a>, <a href="Assets/img-exp11-identificada-52%25.jpeg"> segunda </a>, <a href="Assets/img-exp11-identificada-58%25.jpeg"> terceira </a>.
